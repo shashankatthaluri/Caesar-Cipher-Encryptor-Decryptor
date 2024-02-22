@@ -1,6 +1,6 @@
 # Caesar Cipher Encryptor/Decryptor 🔐
 
-## Overview
+## Overview 📜
 
 This Python script implements a Caesar Cipher, a classic encryption technique where each letter in the plaintext is shifted a certain number of places down or up the alphabet. The user can choose to either encrypt or decrypt a message, and the script supports toggling between encryption and decryption during runtime.
 
@@ -11,19 +11,19 @@ Its a Cryptography method used to communicate secretly. Imagine you have a secre
 It's like a secret language only you and your friend understand because others might not know the secret number. This is a simple way people used to keep messages safe a long time ago!
 
 Now, this Python script lets you use the Caesar Cipher to write secret messages or decode messages from your friends. It's like having your own secret code!
+ 
+## Features 🚀
 
-## Features
-
-- Encrypt or decrypt messages using the Caesar Cipher algorithm.
+- Encrypt or decrypt messages using the Caesar Cipher algorithm. 
 - Toggle between encryption and decryption without restarting the script.
 - Copy the result to the clipboard for easy sharing.
 
-## Requirements
+## Requirements 🛠️
 
 - Python 3.x
 - (Optional) Pyperclip module for clipboard functionality. Install it using `pip install pyperclip`.
 
-## Usage 🚀
+## Usage 📋
 
 1. Run the script using Python 3.
 2. Choose whether to encrypt or decrypt the message.
@@ -32,7 +32,7 @@ Now, this Python script lets you use the Caesar Cipher to write secret messages 
 5. View the result on the console and optionally copy it to the clipboard.
 6. Choose to toggle between encryption and decryption for subsequent messages.
 
-## Example
+## Example 🌐
 
 Encrypt a message:
 ```sh
